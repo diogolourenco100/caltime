@@ -11,4 +11,4 @@ def Calctime(function]):
     return wrapper
 
 @Calctime
-# YOUR FUNCTION HERE
+# CREATE YOUR FUNCTION HERE
