@@ -1,6 +1,6 @@
 import time
 
-def Calctime(function]):
+def calctime(function]):
     def wrapper(*args, **kwargs):
         start = time.time()
         result = function](*args, **kwargs)
