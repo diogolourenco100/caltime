@@ -17,4 +17,8 @@ Install dependencies
 # How to use
 ## Topic 1
 - Just copy and paste the function into your code
-- Run your function with ```calctime(YOUR_FUNCTION_HERE)```
+- Run your function with:
+```python3
+@Calctime
+your_function()
+```
