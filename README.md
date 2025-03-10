@@ -1,7 +1,7 @@
 
 # Calctime
-## Calculates the execution time of a given function.
-### Run Locally  
+### Calculates the execution time of a given function.
+#### Run Locally  
 
 Clone the project  
 
