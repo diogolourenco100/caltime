@@ -1,6 +1,6 @@
 import time
 
-def calctime(function]):
+def Calctime(function]):
     def wrapper(*args, **kwargs):
         start = time.time()
         result = function](*args, **kwargs)
@@ -9,3 +9,6 @@ def calctime(function]):
         print(f"Execution time: {execution_time:.2f} seconds.")
         return result
     return wrapper
+
+@Calctime
+# YOUR FUNCTION HERE
